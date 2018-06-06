@@ -220,7 +220,7 @@ class Iframe extends React.Component {
   render() {
     return(
       <div>
-        <iframe src="https://yining1023.github.io/ml5_image_classification_dragdrop/"
+        <iframe src="https://ml5js.github.io/ml5-homepage-demo/"
           height="500"
           width="100%"
         />
